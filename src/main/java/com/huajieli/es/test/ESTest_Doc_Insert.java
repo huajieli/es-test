@@ -16,7 +16,7 @@ import java.io.IOException;
  * @author huajieli
  * @create 2021-10-17 22:20
  */
-public class ESTest_Index_Insert {
+public class ESTest_Doc_Insert {
     public static void main(String[] args) throws IOException {
         //创建客户端对象
         RestHighLevelClient client = new RestHighLevelClient(
